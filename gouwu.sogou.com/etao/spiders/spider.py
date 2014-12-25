@@ -1,6 +1,6 @@
 #-*- coding: utf-8 -*-
 '''
-bbsSpider, Created on Dec, 2014
+gouwu.sogou.com Spider, Created on Dec, 2014
 #version: 1.0
 #author: chenqx @http://chenqx.github.com
 See more: http://doc.scrapy.org/en/latest/index.html
